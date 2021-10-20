@@ -1,9 +1,9 @@
 # Setup
 title:               DanubeRS
-tagline:             'A Jekyll theme'
+tagline:             'Monkey with a typewriter'
 description:         ''
 url:                 https://blog.danubers.com/
-baseurl:             ''
+baseurl:             'https://blog.danubers.com'
 paginate:            5
 permalink:           pretty
 
