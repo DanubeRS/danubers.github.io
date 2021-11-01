@@ -2,7 +2,7 @@
 title:               DanubeRS
 tagline:             'Monkey with a typewriter'
 description:         ''
-url:                 https://blog.danubers.com
+url:                 ''
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -18,5 +18,9 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
 google_analytics_id: UA-93481484-1
+
+# Socials
+social:
+  twitter: 'https://twitter.com/DanubeDev'
+  linkedin: 'www.linkedin.com/in/danubers'
