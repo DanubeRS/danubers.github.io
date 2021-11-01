@@ -2,8 +2,8 @@
 title:               DanubeRS
 tagline:             'Monkey with a typewriter'
 description:         ''
-url:                 https://blog.danubers.com/
-baseurl:             'https://blog.danubers.com'
+url:                 https://blog.danubers.com
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
